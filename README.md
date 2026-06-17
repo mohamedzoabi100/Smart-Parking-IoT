@@ -52,7 +52,6 @@ smart_parking/
 ├── lib/               # Flutter app source code (main.dart)
 ├── wifimanager.ino    # ESP32 Arduino firmware
 ├── android/           # Android build files
-├── ios/               # iOS build files
 └── pubspec.yaml       # Flutter dependencies
 ```
 
@@ -72,3 +71,7 @@ smart_parking/
 
 *Technion — Israel Institute of Technology, Summer 2025*
 *Instructor: Ido Ram*
+
+poster:
+<img width="381" height="557" alt="image" src="https://github.com/user-attachments/assets/cc59abc9-6d89-483c-b33e-1fc0439ab7bb" />
+
