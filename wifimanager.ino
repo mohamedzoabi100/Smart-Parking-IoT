@@ -9,7 +9,7 @@
 
 // ========== FIREBASE CREDENTIALS ==========
 #define FIREBASE_PROJECT_ID "smart-parking-iot-236333"
-#define FIREBASE_API_KEY "AIzaSyDRrEsqbAiTc-dYRXzGtIF06y7jrO4-wZ8"
+#define FIREBASE_API_KEY "should be here"
 // ==========================================
 
 // WiFiManager instance
